@@ -4,4 +4,3 @@ public class Fichero1 {
     }
 }
 //Primer comentario después de primer tag
-//Tercer comentario después del primer checkout
